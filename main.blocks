@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="hB%Yg-tF1YIgD9QI{lgp" x="0" y="0"></block><block type="device_forever" id="yZrOhd=I4i$!!:aGplT-" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="hB%Yg-tF1YIgD9QI{lgp" x="0" y="0"></block><block type="device_forever" id="yZrOhd=I4i$!!:aGplT-" x="205" y="0"></block><block type="device_button_event" id="=U}#Zs.B=oIY7Q4AD*iu" x="506" y="65"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="]VAPvvc84UI,f@NCrYtX"><field name="i">IconNames.Yes</field></block></statement></block><block type="device_gesture_event" id="bmgZVHy0)H/Ir?WbMha@" x="230" y="179"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="ywQS1b?A5)VxKyFzFk+_"><value name="text"><shadow type="text" id="#yp{k.~)s[0_K|q-qbGA"><field name="TEXT">great!</field></shadow></value></block></statement></block><block type="device_gesture_event" id="])muk}pUjg3w:hBy:m1A" x="504" y="242"><field name="NAME">Gesture.ScreenDown</field><statement name="HANDLER"><block type="device_show_leds" id="5EQ6dqh;:I5B|D@dEzwd"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block><block type="device_button_event" id="Qu@mOi`D:_H{/RMF,sO;" x="197" y="393"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_clear_display" id="M8?;ZA4nD2|DncDum]sz"></block></statement></block></xml>
